@@ -36,7 +36,9 @@ customer-churn-prediction/
 └── .gitignore           # Files and folders to ignore in Git
 ```
 ## **Installation**
+
 git clone https://github.com/<your-username>/customer-churn-prediction.git
+
 cd customer-churn-prediction
 
 python -m venv venv
@@ -46,14 +48,19 @@ pip install -r requirements.txt
 
 ## **Usage**
 Data Exploration:
+
 Run the notebooks/eda.ipynb file to explore the dataset and understand patterns.
 
 Train the Model:
+
 Execute the preprocessing and model training scripts:
+
 python src/preprocessing.py
+
 python src/model_training.py
 
 Start the application to make predictions:
+
 python app.py
 
 Access the dashboard at http://127.0.0.1:5000/.
@@ -72,8 +79,11 @@ Tenure
 Customer support interactions
 
 ## **Future Work**
+
 -Enhance the model by incorporating more complex algorithms.
+
 -Add more features (e.g., customer social media data, reviews).
+
 -Scale the deployment using cloud services like AWS or Google Cloud.
 
 
