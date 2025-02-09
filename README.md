@@ -66,7 +66,7 @@ python app.py
 Access the dashboard at http://127.0.0.1:5000/.
 
 ## **Results**
-Model Accuracy: 78%
+Model Accuracy: 79%
 
 Key Features Driving Churn:
 
