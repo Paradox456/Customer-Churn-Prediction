@@ -17,7 +17,6 @@ This project aims to predict customer churn in a subscription-based business. By
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost  
 - **Visualization Tools:** Plotly, Streamlit  
-- **Model Deployment:** Flask / Streamlit  
 - **Version Control:** Git, GitHub  
 - **Data Source:** [Telco Customer Churn Dataset](https://www.kaggle.com/datasets)
 
@@ -84,7 +83,7 @@ Customer support interactions
 
 -Add more features (e.g., customer social media data, reviews).
 
--Scale the deployment using cloud services like AWS or Google Cloud.
+
 
 
 
